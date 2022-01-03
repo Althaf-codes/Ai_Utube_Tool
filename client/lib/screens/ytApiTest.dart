@@ -1,6 +1,6 @@
 import 'dart:convert';
 import 'dart:io';
-import 'package:client/Secretconstant.dart';
+import 'package:client/secretConstants.dart';
 import 'package:html_unescape/html_unescape.dart';
 import 'package:client/screens/CommentsClassifierscreen.dart';
 import 'package:flutter/material.dart';
