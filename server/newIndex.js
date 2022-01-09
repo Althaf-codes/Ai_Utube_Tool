@@ -12,7 +12,7 @@ var funResult = [];
 
 dotenv.config({path:'config.env'});
 
-
+  
 async function runServer() {
     const model = await toxicity.load(threshold);
     const app = express();

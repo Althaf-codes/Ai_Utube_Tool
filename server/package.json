@@ -2,7 +2,11 @@
   "name": "youtubecommenter",
   "version": "1.0.0",
   "description": "youtube comment getting api",
-  "main": "index.js",
+  "main": "newindex.js",
+  "engines":{
+ "node": "14.17.0",
+ "npm":"6.14.13"
+  },
   "scripts": {
     "start": "nodemon newIndex.js",
     "dev": "nodemon index2.js"
