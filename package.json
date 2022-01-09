@@ -8,7 +8,7 @@
     "npm":"6.14.13"
   },
   "scripts": {
-    "start": "node newIndex.js"
+    "start": "nodemon ./server/newIndex.js"
     
   },
   "author": "Althaf",

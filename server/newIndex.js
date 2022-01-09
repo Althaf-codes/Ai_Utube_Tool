@@ -10,7 +10,7 @@ const threshold = 0.6;
 const port = process.env.PORT || 8080;
 var funResult = [];
 
-dotenv.config({path:'config.env'});
+dotenv.config({path:'./server/config.env'});
 
 
 async function runServer() {
