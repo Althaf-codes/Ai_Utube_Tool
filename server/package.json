@@ -4,8 +4,8 @@
   "description": "youtube comment getting api",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon newIndex.js",
-    "dev": "nodemon index2.js"
+    "start": "node newIndex.js"
+    
   },
   "author": "Althaf",
   "license": "ISC",
